@@ -1,5 +1,7 @@
 # Indoor Outdoor Prediction
 
+** Used Restnet18 CNN**
+
 <ul>
 <li>Open google colab</li>
 <li>git clone my files .ipynb and .pth(model trained by me)</li>
