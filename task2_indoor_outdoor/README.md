@@ -1,6 +1,6 @@
 # Indoor Outdoor Prediction
 
-** Used Restnet18 CNN**
+**Used Restnet18 CNN**
 
 <ul>
 <li>Open google colab</li>
